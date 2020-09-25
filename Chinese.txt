@@ -1,0 +1,310 @@
+﻿LocalButton,本地
+OnlineButton,在线
+HowToPlayButton,教程
+FreePlayButton,自由游戏
+PublicHeader,公开
+PrivateHeader,私人
+HostHeader,主机
+
+ExitButton,退出
+BackButton,返回
+AvailableGamesLabel,可以加入的游戏
+CreateGameButton,创建游戏
+FindGameButton,寻找游戏
+EnterCode,输入代码
+GhostIgnoreTasks,你已经死了，乐享混沌吧。
+GhostDoTasks,你已经死了，但你可以完成任务取得胜利。
+GhostImpostor,你已经死了，但你还可以破坏设施。
+ImpostorTask,破坏设施，并且杀光所有人。
+FakeTasks,假任务:
+TaskComplete,任务完成！
+ExileTextSP,{0} 是冒充者。
+ExileTextSN,{0} 不是冒充者。
+ExileTextPP,{0} 是个冒充者。
+ExileTextPN,{0} 不是冒充者。
+NoExileSkip,没有人被逐出。（跳过）
+NoExileTie,没人被逐出。（平票）
+ExileTextNonConfirm,{0} 被驱逐。
+ImpostorsRemainS,还有 {0} 个冒充者。
+ImpostorsRemainP,还有 {0} 个冒充者。
+
+Hallway,门厅
+Engines,引擎室
+UpperEngine,上方引擎
+Cafeteria,食堂
+Weapons,武器库
+Reactor,反应堆
+Security,安保
+MedBay,医疗室
+LifeSupp,O2
+Nav,指挥室
+LowerEngine,下方引擎
+Electrical,配电间
+Admin,管理室
+Storage,储藏室
+Shields,防御管理处
+Comms,通讯设施
+Decontamination,净化室
+Launchpad,发射台
+LockerRoom,更衣室
+Laboratory,实验室
+Balcony,阳台
+Office,办公室
+Greenhouse,温室
+
+DivertPowerTo,把能源转移到 {0}
+AcceptDivertedPower,接受能源转移
+SubmitScan,提交扫描
+PrimeShields,调整防御
+FuelEngines,给引擎加油
+ChartCourse,航线规划
+StartReactor,启动反应堆
+SwipeCard,刷卡
+ClearAsteroids,扫除小行星
+DownloadData,下载数据
+UploadData,上传数据
+InspectSample,检视样品
+EmptyChute,清空陡槽
+EmptyGarbage,清空垃圾
+AlignEngineOutput,对齐引擎输出
+FixWiring,固定接线
+CalibrateDistributor,校准配电盘
+UnlockManifolds,解锁歧管
+ResetReactor,距离反应堆融化只有：
+FixLights,修理电灯
+CleanO2Filter,清洁氧气过滤器
+FixComms,通讯设施遭到破坏
+RestoreOxy,距离氧气耗尽只有
+StabilizeSteering,稳定转向
+
+AssembleArtifact,组装工件
+SortSamples,样品排序
+MeasureWeather,测量天气
+EnterIdCode,输入 Id 代号
+BuyBeverage,购买饮料
+ProcessData,处理数据
+
+NumImpostorsS,我们之中有 [FF1919FF]1 个冒充者[]
+NumImpostorsP,我们之中有 [FF1919FF]{0} 个冒充者[]
+
+Crewmate,船员
+Impostor,冒充者
+Victory,胜利
+Defeat,失败
+CrewmatesDisconnected,大部分船员\n已断开连接
+ImpostorDisconnected,冒充者断开连接
+
+PickAnomaly,挑选错误
+WaterPlantsGetCan,浇水！
+AuthOfficeOkay,办公室 正常
+AuthCommsOkay,通信设施 正常
+AuthOfficeActive,办公室 激活
+AuthCommsActive,通信设施 激活
+AuthOfficeNotActive,办公室 未激活
+AuthCommsNotActive,通信设施 未激活
+SecLogEntry,{0} 经过了 {1} 的传感器
+LogNorth,北面
+LogSouthEast,东南面
+LogSouthWest,西南面
+
+EnterName,输入昵称
+
+SwipeCardPleaseInsert,请插卡
+SwipeCardPleaseSwipe,请刷卡
+SwipeCardBadRead,读取错误，请重试。
+SwipeCardTooFast,未来得及读取，请重试。
+SwipeCardTooSlow,读取过慢，请重试
+SwipeCardAccepted,已接受，谢谢。
+
+ReactorHoldToStop,按住以停止融化
+ReactorWaiting,等待另一个用户
+ReactorNominal,反应堆锁定
+
+MeetingWhoIsTitle,谁是冒充者？
+MeetingVotingBegins,投票在：{0}秒后开始
+MeetingVotingEnds,投票在：{0}秒后结束
+MeetingVotingResults,投票结果
+MeetingProceeds,即将在：{0}秒后进行
+MeetingHasVoted,{0}投票了。还有 {1} 个人没有投票。
+
+HowToPlayText1,Among Us 是一款考验团队合作与背叛的游戏，\n\n玩家会成为冒充者，或是船员。
+HowToPlayText2,可以和4-10个人在线游玩！或者是本地WiFi联机！
+HowToPlayText41,成为主机时，你可以调整游戏的胜利条件
+HowToPlayText42,首先，决定你要和哪些人进行游戏！\n\n如果你想和朋友在线游玩，请设置房间为 "私人"，然后分享房间代码.\n\n如果你想和全世界的人玩，请设置房间为 "公开"。
+HowToPlayText43,你想要船员完成更多任务才能取得胜利？还是说要更快的移动速度？更多的冒充者？当成为主机时，你可以更改这些设定。一定要跟一起玩的伙计们确认好这些哦。
+HowToPlayText44,如果有人说话嘴臭/或者骚扰，主机可以暂时踢出玩家作为警告，或是针对指定的房间封禁玩家。
+HowToPlayTextMap,玩家可以查看个人地图来寻找船上的路
+HowToPlayTextCrew1,目标：填满任务进度条或揪出冒充者。
+HowToPlayTextCrew2,完成任务即可填满任务进度条。
+HowToPlayTextCrew3,应对冒充者破坏设施。
+HowToPlayTextCrew4,当发现冒充者时召开紧急会议。
+HowToPlayTextCrew5,呼报尸体发现。
+HowToPlayTextCrew6,侦察管理室地图和安保系统发现可疑行踪。
+HowToPlayTextImp1,目标：杀光船员。
+HowToPlayTextImp2,和船员一伙。
+HowToPlayTextImp3,在通风管道之间偷摸穿梭。
+HowToPlayTextImp4,假装在执行任务。
+HowToPlayTextImp5,破坏船上设施，迷惑船员。
+HowToPlayTextImp6,关门并困住船员。
+HowToPlayTextImp7,杀害船员会有冷却时间。
+HowToPlayText5,当面对面游玩时，冒充者和船员不能有任何交流。\n\n如果玩家被冒充者杀害，直到游戏结束他都不能说话。\n\n他们的鬼魂还是可以继续完成任务，帮助船员取得胜利。
+HowToPlayText6,当有人呼报发现尸体或是召开紧急会议，船员集合讨论他们所知道有关冒充者的信息。\n\n现在玩家可以开放地讨论谁是冒充者并说出自己已有的情报。当面对面玩时，死亡玩家的鬼魂会马上发现谁是冒充者\n\n冒充者会去证明自己的无辜或是谴责其他船员。
+HowToPlayText7,讨论之后，给你认为的冒充者投票。\n\n获得票数最多的玩家将被逐出船，所以动动脑子先！\n\n如果你作为船员同时没有足够的情报，你可以跳过投票避免把真正无辜的人逐出，不断获得更多情报。
+HowToPlayText81,在自由游玩中试试身手！
+HowToPlayText82,可以试试船员，为自己设定任务目标。或者试试冒充者，破坏船上设施！
+
+SettingsGeneral,通用
+SettingsControls,操控
+SettingsSound,声音
+SettingsGraphics,图像
+SettingsData,数据
+SettingsCensorChat,聊天过滤脏字
+SettingsMusic,音乐
+SettingsSFX,音效
+SettingsOn,开启
+SettingsOff,关闭
+SettingsSendTelemetry,发送崩溃信息
+SettingsControlMode,操控模式
+SettingsTouchMode,触摸
+SettingsJoystickMode,摇杆
+SettingsKeyboardMode,鼠标+键盘
+SettingsFullscreen,全屏
+SettingsVSync,垂直同步
+SettingsResolution,分辨率
+SettingsApply,应用
+SettingsPersonalizeAds,个性化广告
+SettingsLanguage,语言
+SettingsJoystickSize,大小
+SettingsMouseMode,鼠标
+
+MatchMapName,地图：
+MatchLanguage,聊天：
+MatchImpostors,冒充者：
+MatchMaxPlayers,最多玩家数量：
+Cancel,取消
+Confirm,确认
+
+PlayerColor,颜色
+PlayerHat,帽子
+PlayerSkin,皮肤
+PlayerPet,宠物
+GameSettings,游戏
+GameRecommendedSettings,推荐设定
+GameCustomSettings,自定义
+GameMapName,地图
+GameNumImpostors,# 冒充者
+GameNumMeetings,# 紧急会议
+GameDiscussTime,讨论时长
+GameVotingTime,投票时长
+GamePlayerSpeed,玩家速度
+GameCrewLight,船员可视范围
+GameImpostorLight,冒充者可视范围
+GameKillCooldown,杀人冷却时长
+GameKillDistance,杀人范围
+GameCommonTasks,# 正常任务
+GameLongTasks,# 长时间任务
+GameShortTasks,# 短时间任务
+GameEmergencyCooldown,紧急会议冷却时长
+GameSecondsAbbrev,秒
+GameConfirmImpostor,确认驱逐
+GameVisualTasks,视觉任务
+
+Limit,限制
+RoomCode,代码
+LeaveGame,离开游戏
+ReturnToGame,返回游戏
+
+LocalHelp,连接出现问题？\n\n● 确保所有玩家都连接到同一个名称的WiFi\n\n● 检查所有玩家的版本是否一致（版本号显示于左上方）\n\n● 你的WiFi信号够强吗\n\n● 有些时候换一个人当主机可以解决问题\n\n● 有些时候重启游戏也可以解决问题。。。\n\n● 甚至有些时候重启手机也可以解决问题。。。\n\n● 还是无法游玩？在 Discord 上给予我们反馈吧！
+OnlineHelp,试试这样如何？\n\n● 主持游戏会有一个游戏代码显示于开始按钮旁边。\n● 将游戏代码分享给朋友就可以创建私人房间。\n● 或者点击 "私人" 来让游戏可以在 "寻找游戏" 中被搜索到。\n● 主机可以在聊天框可用时封禁或者踢出玩家.\n● 还是无法游玩？在 Discord 上给予我们反馈吧！
+
+EmergencyCount,船员 {0} 还剩余\n\n\n\n次紧急会议
+EmergencyNotReady,船员必须等待\n\n\n\n秒才能再召开紧急会议
+EmergencyDuringCrisis,紧急会议不能在\n危机中召开
+EmergencyRequested,紧急会议召开已请求\n等待主机
+
+AdPolicyTitle,广告策略
+AdPolicyText,Among Us 使用 AdMob 广告来让游戏可以一直免费。 在\n默认情况下， AdMob 将收集数据来个性化广告。 AdMob 还会使用 cookie，\n设备ID， and coarse geo data even for non-personalized ads. We\ncannot turn this off, so we recommend buying the no-ad upgrade (2 USD)\ninstead.\n\nIf you buy the no-ad upgrade, your friends will also get no ads whenever\nyou host! If you've bought the upgrade before, open the store to recover\nthe receipt.
+Accept,接受
+RemoveAds,移除广告
+DataPolicyWhat,什么信息会被收集？
+
+WaterPlants,浇灌植物
+WeatherEta,还剩：{0}秒
+WeatherComplete,完成
+RunDiagnostics,启动诊断
+
+SettingShort,短
+SettingMedium,中
+SettingLong,长
+SamplesPress,按下开始
+SamplesAdding,添加试剂
+SamplesSelect,选择异常
+SamplesThanks,谢谢！
+SamplesComplete,测试完成
+AstDestroyed,已摧毁：{0}
+TaskTestTitle,Task Tester 2000
+
+BeginDiagnostics,开始诊断
+UserLeftGame,{0} 离开游戏。
+GameStarting,{0} 秒后游戏开始
+
+Tasks,任务
+MedscanRequested,检查已请求
+MedscanWaitingFor,等待 {0}
+MedscanCompleted,检查完成！
+MedscanCompleteIn,检查将在 {0} 秒后完成
+
+StatsTitle,统计
+StatsBodiesReported,尸体发现呼报的次数：\t
+StatsEmergenciesCalled,紧急会议召开的次数：\t
+StatsTasksCompleted,任务完成的次数：\t
+StatsAllTasksCompleted,任务全部完成的次数：\t
+StatsSabotagesFixed,设施修复的次数：\t
+StatsImpostorKills,冒充者杀人的次数：\t\t
+StatsTimesMurdered,被杀害的次数：\t
+StatsTimesEjected,被逐出的次数：\t\t
+StatsCrewmateStreak,船员连胜的次数：\t
+StatsGamesImpostor,成为冒充者的次数：\t
+StatsGamesCrewmate,成为船员的次数：\t
+StatsGamesStarted,游戏次数：\t
+StatsGamesFinished,游戏完成次数：\t
+StatsImpostorVoteWins,冒充者以投票取得胜利的次数：\t
+StatsImpostorKillsWins,冒充者以杀人取得胜利的次数：\t
+StatsImpostorSabotageWins,冒充者以破坏设施取得胜利的次数：\t
+StatsCrewmateVoteWins,船员以投票取得胜利的次数：\t
+StatsCrewmateTaskWins,船员以完成任务取得胜利的次数：\t
+
+MonitorOxygen,监控大树
+StoreArtifacts,存放文物
+FillCanisters,填充罐子
+InsertKeys,插入钥匙
+ResetSeismic,重设地震稳定器
+
+SeismicHoldToStop,按住启用地震稳定器
+SeismicNominal,地震稳定器
+
+ScanBoardingPass,扫描登船卡
+FixWeatherNode,修理天气节点
+OpenWaterways,开放水道
+ReplaceWaterJug,更换水壶
+RepairDrill,修理钻机
+AlignTelescope,对准望远镜
+RecordTemperature,记录天气
+RebootWifi,重启WiFi
+
+WifiRebootRequired,需要重启
+WifiPleaseWait,请等待
+WifiPleaseReturnIn,请在 {0} 秒后返回
+WifiPleasePowerOn,请打开电源
+WifiRebootComplete,重启完成
+
+Outside,外部
+Dropship,停船处
+Decontamination2,净化室
+Specimens,标本室
+BoilerRoom,锅炉间
+
+GameOverImpostorDead,通常船员会在冒充者死后直接胜利，但在自由游玩下，我们会复活所有人。
+GameOverImpostorKills,通常冒充者会在船员没办法胜利后获得胜利，但在自由游玩下，我们会复活所有人。
+GameOverTaskWin,通常船员会在任务进度条满后取得胜利，但在自由游玩下，我们会不断提出新任务。
+GameOverSabotage,通常冒充者会在严重破坏后取得胜利，但在自由游玩下，这屁都不是。
