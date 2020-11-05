@@ -1,4 +1,4 @@
-﻿LocalButton,本地
+LocalButton,本地
 OnlineButton,在线
 HowToPlayButton,教程
 FreePlayButton,自由游戏
@@ -208,6 +208,11 @@ GameEmergencyCooldown,紧急会议冷却时长
 GameSecondsAbbrev,秒
 GameConfirmImpostor,确认驱逐
 GameVisualTasks,视觉任务
+GameAnonymousVotes,匿名投票
+GameTaskBarMode,任务条升级
+SettingNormalTaskMode,总是
+SettingMeetingTaskMode,Meetings
+SettingInvisibleTaskMode,从不						  
 
 Limit,限制
 RoomCode,代码
